@@ -12,6 +12,6 @@ jobs:
       with:
        site_url: '1urlsdfsdfsdf111'
        client_id: '1client11'
-       client_secret: '1client_sesdfcret1'
+       client_secret: '1cliensdft_sesdfcret1'
        relative_url: '1relativsdfe1'
        glob: '*.*'
