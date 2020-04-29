@@ -11,6 +11,6 @@ jobs:
       uses: INVIXO/actions-sharepoint-upload@beta
       with:
        site_url: '1url111'
-       client_id: '1sdfsdfclient_id1'
+       client_id: '1sdfsdfsdfnt_id1'
        client_secret: '1client_secret1'
        glob: '1glob1'
