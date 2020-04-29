@@ -10,7 +10,8 @@ jobs:
     - name: Upload to Sharepoint
       uses: INVIXO/actions-sharepoint-upload@beta
       with:
-       site_url: '1urlsdf111'
-       client_id: '1sdsdffsdfsdfnt_id1'
+       site_url: '1urlsdfsdf111'
+       client_id: '1client11'
        client_secret: '1client_sesdfcret1'
+       relative_url: '1relative1'
        glob: '1glob1'
